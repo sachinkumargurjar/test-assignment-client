@@ -1,0 +1,24 @@
+.comments-and-reviewers-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .section {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: #fff; /* Add background color */
+  }
+  
+  .comments-section {
+    margin-right: 10px;
+    background-color: #e6f7ff; /* Add background color */
+  }
+  
+  .reviewers-section {
+    margin-left: 10px;
+    background-color: #faffef; /* Add background color */
+  }
+  
